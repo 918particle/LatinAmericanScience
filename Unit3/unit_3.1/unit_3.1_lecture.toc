@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Review}{2}{0}{1}
+\beamer@sectionintoc {2}{Summary}{4}{0}{2}
+\beamer@sectionintoc {3}{Exploration of R\'{i}o de La Plata}{6}{0}{3}
+\beamer@sectionintoc {4}{Vectors and Distance}{11}{0}{4}
+\beamer@sectionintoc {5}{Exploration Literature}{29}{0}{5}
+\beamer@sectionintoc {6}{Expedici\'{o}n Bot\'{a}nica, y La Condamine}{30}{0}{6}
+\beamer@sectionintoc {7}{Longitude and Latitude}{31}{0}{7}
