@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  8 AUG 2024 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  8 AUG 2024 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -442,22 +442,17 @@ Overfull \hbox (8.95421pt too wide) in paragraph at lines 138--139
 
 [3 <./figures/franklin.png> <./figures/alzate_ramirez.jpg> <./figures/1769_tran
 sit.png> <./figures/Abbot_dAuteroche.png> <./figures/joaquin_v_d_Leon.png>]
-Overfull \hbox (1.33763pt too wide) in paragraph at lines 147--148
-[]\OT1/cmr/m/n/10 Review of Pre-Columbian and Me-dieval Eu-ro-pean
- []
-
-
 Overfull \hbox (4.39859pt too wide) in paragraph at lines 156--157
 []\OT1/cmr/m/n/10 Science gone wrong, con-cepts of sin, fraud,
  []
 
 
-Overfull \hbox (5.17093pt too wide) in paragraph at lines 163--164
+Overfull \hbox (5.17093pt too wide) in paragraph at lines 167--168
 []\OT1/cmr/m/n/10 Form groups of 2, or re-main solo (stu-dents' choice). 
  []
 
 
-Overfull \hbox (25.73236pt too wide) in paragraph at lines 170--171
+Overfull \hbox (25.73236pt too wide) in paragraph at lines 174--175
 []\OT1/cmr/m/n/10 For \OT1/cmr/m/it/10 meet-ing but not ex-ceed-ing \OT1/cmr/m/
 n/10 the time-requirement
  []
@@ -466,12 +461,12 @@ n/10 the time-requirement
 File: figures/roman_lopez_salvatierra.png Graphic file (type png)
 <use figures/roman_lopez_salvatierra.png>
 Package pdftex.def Info: figures/roman_lopez_salvatierra.png  used on input lin
-e 175.
+e 179.
 (pdftex.def)             Requested size: 238.01991pt x 149.49806pt.
 <figures/venus.png, id=126, 1058.95625pt x 476.78125pt>
 File: figures/venus.png Graphic file (type png)
 <use figures/venus.png>
-Package pdftex.def Info: figures/venus.png  used on input line 176.
+Package pdftex.def Info: figures/venus.png  used on input line 180.
 (pdftex.def)             Requested size: 238.01991pt x 107.16202pt.
 [4 <./figures/roman_lopez_salvatierra.png> <./figures/venus.png>]
 (./syllabus.aux)
@@ -479,13 +474,13 @@ Package rerunfilecheck Info: File `syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9229 strings out of 476097
- 145743 string characters out of 5791138
+ 9233 strings out of 476097
+ 145775 string characters out of 5791138
  1876851 words of memory out of 5000000
  29393 multiletter control sequences out of 15000+600000
  517445 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,76p,1509b,776s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,76p,1535b,776s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
@@ -498,10 +493,10 @@ ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/loca
 l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
 texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on syllabus.pdf (4 pages, 2884149 bytes).
+Output written on syllabus.pdf (4 pages, 2884964 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 195 compressed objects within 2 object streams
- 117 named destinations out of 1000 (max. 500000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 121 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
