@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  7 AUG 2024 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  7 AUG 2024 17:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -312,108 +312,135 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 20.
 
-Overfull \hbox (1.81642pt too wide) in paragraph at lines 27--36
- [][] 
- []
-
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (1.10619pt too wide) in paragraph at lines 56--57
-[]\OT1/cmr/m/n/10 General out-line of course, ter-mi-nol-ogy from phi-
+Overfull \hbox (15.73123pt too wide) in paragraph at lines 57--58
+[]\OT1/cmr/m/n/10 Terminology from phi-los-o-phy, the Catholic Church,
  []
 
 
-Overfull \hbox (8.09776pt too wide) in paragraph at lines 59--60
-\OT1/cmr/m/n/10 medicine car-ried from Eu-rope to Latin Amer-
+Overfull \hbox (16.25899pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 ge-og-ra-phy and the Span-ish and Por-tuguese viceroy-
  []
 
 
-Overfull \hbox (4.59225pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 sure-ments of time in pre-Columbian Latin Amer-
+Overfull \hbox (4.98662pt too wide) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/10 Examples of good sci-ence: de-vel-op-ments
  []
 
 
-Overfull \hbox (17.7784pt too wide) in paragraph at lines 77--78
-[]\OT1/cmr/m/n/10 Geographical il-lus-tra-tions: the four vir-reinatos,
+Overfull \hbox (5.81995pt too wide) in paragraph at lines 61--62
+[]\OT1/cmr/m/n/10 Examples of sci-en-tific de-nial-ism, pseudo-
  []
 
 
-Overfull \hbox (1.28297pt too wide) in paragraph at lines 84--85
-[]\OT1/cmr/m/n/10 What con-sti-tutes a uni-ver-sity? From whom
+Overfull \hbox (3.68115pt too wide) in paragraph at lines 63--64
+[]\OT1/cmr/m/n/10 Examples of botany, zo-ol-ogy, and herbal
  []
 
 
-Overfull \hbox (7.2922pt too wide) in paragraph at lines 87--88
-[]\OT1/cmr/m/n/10 Newtonian physics and the sci-en-tific method,
+Overfull \hbox (1.18109pt too wide) in paragraph at lines 65--66
+[]\OT1/cmr/m/n/10 Examples of trans-mis-sion of knowl-edge:
  []
 
 
-Overfull \hbox (13.1673pt too wide) in paragraph at lines 89--90
-[]\OT1/cmr/m/n/10 Geodetic ex-pe-di-tions, La Ex-pe-dici^^Son Bot^^Sanica 
+Overfull \hbox (10.24486pt too wide) in paragraph at lines 71--72
+[]\OT1/cmr/bx/n/10 Unit 1\OT1/cmr/m/n/10 : The Sci-en-tific At-ti-tude, Pre-Col
+umbian Math-
  []
 
 
-Overfull \hbox (16.12006pt too wide) in paragraph at lines 98--99
-\OT1/cmr/m/n/10 ra-tion in Latin Amer-ica: the Church, the Viceroyal,
+Overfull \hbox (11.25903pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 e-mat-ics, and the Ap-pli-ca-tion of En-light-en-ment Physics,
  []
 
 
-Overfull \hbox (13.01442pt too wide) in paragraph at lines 104--105
-[]\OT1/cmr/m/n/10 Cartography of the in-te-rior of Latin Amer-
+Overfull \hbox (0.70876pt too wide) in paragraph at lines 80--81
+[]\OT1/cmr/m/n/10 Essential char-ac-ter-is-tics of good sci-ence 
  []
 
 
-Overfull \hbox (0.57pt too wide) in paragraph at lines 109--110
-[]\OT1/cmr/m/n/10 Trigonometry, vec-tors, di-rec-tional head-ings 
+Overfull \hbox (0.38942pt too wide) in paragraph at lines 82--83
+\OT1/cmr/m/n/10 Espa~na, Nueva Granada, Per^^Su, and R^^S^^Po
  []
 
 
-Overfull \hbox (3.26443pt too wide) in paragraph at lines 110--111
-[]\OT1/cmr/m/n/10 Calculating dis-tances in the in-te-rior of Latin
+Overfull \hbox (11.65332pt too wide) in paragraph at lines 83--84
+[]\OT1/cmr/m/n/10 Scientific text-book ship-ments from France 
+ []
+
+
+Overfull \hbox (3.51437pt too wide) in paragraph at lines 86--87
+\OT1/cmr/m/n/10 in Latin Amer-ica: min-ing prac-tices, car-
+ []
+
+
+Overfull \hbox (3.4866pt too wide) in paragraph at lines 91--92
+[]\OT1/cmr/m/n/10 Connection to mod-ern physics re-search: Mi-
+ []
+
+
+Overfull \hbox (8.26442pt too wide) in paragraph at lines 98--99
+\OT1/cmr/m/n/10 of higher ed-u-ca-tion, com-pe-ti-tion be-tween
+ []
+
+
+Overfull \hbox (3.02837pt too wide) in paragraph at lines 104--105
+\OT1/cmr/m/n/10 in Nueva Espa^^Sna, Nueva Granada, and Per^^Su 
+ []
+
+
+Overfull \hbox (3.41643pt too wide) in paragraph at lines 108--109
+\OT1/cmr/m/n/10 open-book/open-note pol-icy. The for-mat is mul-
  []
 
 [2
 
 
 ]
-Overfull \hbox (10.9812pt too wide) in paragraph at lines 114--115
-[]\OT1/cmr/m/n/10 Reading and dis-cus-sion: In-de-pen-dence from Spain 
+Overfull \hbox (4.23665pt too wide) in paragraph at lines 115--116
+[]\OT1/cmr/m/n/10 The op-ti-cal ober-va-to-ries of the An-des moun-
  []
 
 
-Overfull \hbox (3.93115pt too wide) in paragraph at lines 117--118
-[]\OT1/cmr/m/n/10 Economic, ed-u-ca-tional, and med-i-cal re-forms 
+Overfull \hbox (2.36427pt too wide) in paragraph at lines 119--120
+[]\OT1/cmr/bx/n/10 Essay on Dis-cov-ery, Ex-pe-di-tion, or Re-searcher
  []
 
 
-Overfull \hbox (5.28674pt too wide) in paragraph at lines 118--119
-[]\OT1/cmr/m/n/10 Expeditions near the south-ern tip of Latin Amer-
+Overfull \hbox (11.09232pt too wide) in paragraph at lines 120--121
+[]\OT1/cmr/m/n/10 Format: es-says will be ap-prox-i-mately 5,000 words,
  []
 
 
-Overfull \hbox (12.58499pt too wide) in paragraph at lines 119--120
-\OT1/cmr/m/it/10 from Los An-ge-les who passed away this Christ-
+Overfull \hbox (10.4257pt too wide) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/10 Editing/drafts: please use the book-ing link (above
  []
 
-<virgen.jpg, id=82, 379.6584pt x 590.6868pt>
-File: virgen.jpg Graphic file (type jpg)
-<use virgen.jpg>
-Package pdftex.def Info: virgen.jpg  used on input line 131.
-(pdftex.def)             Requested size: 227.62204pt x 354.1354pt.
-[3 <./virgen.jpg>] (./syllabus.aux)
+
+Overfull \hbox (0.23114pt too wide) in paragraph at lines 122--123
+\OT1/cmr/m/n/10 in con-tact info) to sched-ule of-fice hours ap-point-
+ []
+
+
+Overfull \hbox (0.62541pt too wide) in paragraph at lines 129--130
+[]\OT1/cmr/m/n/10 When the Cre-ole elites de-cided to break
+ []
+
+[3] (./syllabus.aux)
 Package rerunfilecheck Info: File `syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9136 strings out of 476097
- 143849 string characters out of 5791138
+ 9140 strings out of 476097
+ 143815 string characters out of 5791138
  1877851 words of memory out of 5000000
- 29346 multiletter control sequences out of 15000+600000
+ 29342 multiletter control sequences out of 15000+600000
  517445 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,76p,1450b,779s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,76p,1509b,676s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
@@ -426,10 +453,10 @@ ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/loca
 l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
 texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on syllabus.pdf (3 pages, 464486 bytes).
+Output written on syllabus.pdf (3 pages, 179467 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 79 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 189 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 89 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
