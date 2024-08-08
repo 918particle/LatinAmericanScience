@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  7 AUG 2024 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  8 AUG 2024 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -243,19 +243,19 @@ LaTeX Font Info:    ... okay on input line 9.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(42.67914pt, 512.1496pt, 42.67914pt)
-* v-part:(T,H,B)=(30.72897pt, 768.2244pt, 46.09348pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=512.1496pt
-* \textheight=768.2244pt
-* \oddsidemargin=-29.59085pt
-* \evensidemargin=-29.59085pt
-* \topmargin=-78.54102pt
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=528.93675pt
+* \textheight=709.61174pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -316,131 +316,176 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (15.73123pt too wide) in paragraph at lines 57--58
+Overfull \hbox (7.33766pt too wide) in paragraph at lines 56--57
 []\OT1/cmr/m/n/10 Terminology from phi-los-o-phy, the Catholic Church,
  []
 
 
-Overfull \hbox (16.25899pt too wide) in paragraph at lines 57--58
+Overfull \hbox (7.86542pt too wide) in paragraph at lines 56--57
 \OT1/cmr/m/n/10 ge-og-ra-phy and the Span-ish and Por-tuguese viceroy-
  []
 
 
-Overfull \hbox (4.98662pt too wide) in paragraph at lines 60--61
-[]\OT1/cmr/m/n/10 Examples of good sci-ence: de-vel-op-ments
+Overfull \hbox (7.00975pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 Eu-rope to Latin Amer-ica, and Latin Amer-
  []
 
 
-Overfull \hbox (5.81995pt too wide) in paragraph at lines 61--62
-[]\OT1/cmr/m/n/10 Examples of sci-en-tific de-nial-ism, pseudo-
+Overfull \hbox (11.03746pt too wide) in paragraph at lines 66--67
+[]\OT1/cmr/m/n/10 Classification of stud-ies: sci-ence or non-science? 
  []
 
 
-Overfull \hbox (3.68115pt too wide) in paragraph at lines 63--64
-[]\OT1/cmr/m/n/10 Examples of botany, zo-ol-ogy, and herbal
- []
-
-
-Overfull \hbox (1.18109pt too wide) in paragraph at lines 65--66
-[]\OT1/cmr/m/n/10 Examples of trans-mis-sion of knowl-edge:
- []
-
-
-Overfull \hbox (10.24486pt too wide) in paragraph at lines 71--72
+Overfull \hbox (1.85129pt too wide) in paragraph at lines 70--71
 []\OT1/cmr/bx/n/10 Unit 1\OT1/cmr/m/n/10 : The Sci-en-tific At-ti-tude, Pre-Col
 umbian Math-
  []
 
 
-Overfull \hbox (11.25903pt too wide) in paragraph at lines 71--72
+Overfull \hbox (2.86546pt too wide) in paragraph at lines 70--71
 \OT1/cmr/m/n/10 e-mat-ics, and the Ap-pli-ca-tion of En-light-en-ment Physics,
  []
 
 
-Overfull \hbox (0.70876pt too wide) in paragraph at lines 80--81
-[]\OT1/cmr/m/n/10 Essential char-ac-ter-is-tics of good sci-ence 
+Overfull \hbox (2.19878pt too wide) in paragraph at lines 70--71
+\OT1/cmr/m/n/10 As-tron-omy, and Chem-istry to Pub-lic Progress in Nueva
  []
 
 
-Overfull \hbox (0.38942pt too wide) in paragraph at lines 82--83
-\OT1/cmr/m/n/10 Espa~na, Nueva Granada, Per^^Su, and R^^S^^Po
+Overfull \hbox (15.28214pt too wide) in paragraph at lines 72--73
+[]\OT1/cmr/m/n/10 Methods of com-pu-ta-tion pre-Columbian Latin Amer-
  []
 
 
-Overfull \hbox (11.65332pt too wide) in paragraph at lines 83--84
+Overfull \hbox (8.50969pt too wide) in paragraph at lines 81--82
+\OT1/cmr/m/n/10 en-ment sci-en-tific prac-tice in Nueva Espa~na,
+ []
+
+
+Overfull \hbox (2.82918pt too wide) in paragraph at lines 81--82
+\OT1/cmr/m/n/10 Nueva Granada, Per^^Su, and R^^S^^Po de la Plata 
+ []
+
+
+Overfull \hbox (3.25975pt too wide) in paragraph at lines 82--83
 []\OT1/cmr/m/n/10 Scientific text-book ship-ments from France 
  []
 
 
-Overfull \hbox (3.51437pt too wide) in paragraph at lines 86--87
-\OT1/cmr/m/n/10 in Latin Amer-ica: min-ing prac-tices, car-
+Overfull \hbox (1.32918pt too wide) in paragraph at lines 88--89
+[]\OT1/cmr/m/n/10 Galileo, Ke-pler, and the he-lio-cen-tric uni-verse:
  []
 
 
-Overfull \hbox (3.4866pt too wide) in paragraph at lines 91--92
-[]\OT1/cmr/m/n/10 Connection to mod-ern physics re-search: Mi-
+Overfull \hbox (6.56529pt too wide) in paragraph at lines 99--100
+[]\OT1/cmr/m/n/10 Real Ex-pe-dici^^Son Bot^^Sanica del Nuevo Reino
  []
 
 
-Overfull \hbox (8.26442pt too wide) in paragraph at lines 98--99
-\OT1/cmr/m/n/10 of higher ed-u-ca-tion, com-pe-ti-tion be-tween
+Overfull \hbox (13.39871pt too wide) in paragraph at lines 102--103
+[]\OT1/cmr/m/n/10 Comparing so-lar sys-tem mod-els: Bib-li-cal, Ptole-
  []
 
 
-Overfull \hbox (3.02837pt too wide) in paragraph at lines 104--105
-\OT1/cmr/m/n/10 in Nueva Espa^^Sna, Nueva Granada, and Per^^Su 
- []
-
-
-Overfull \hbox (3.41643pt too wide) in paragraph at lines 108--109
-\OT1/cmr/m/n/10 open-book/open-note pol-icy. The for-mat is mul-
+Overfull \hbox (19.67638pt too wide) in paragraph at lines 104--105
+\OT1/cmr/m/n/10 mate sci-ence de-bate to the geo-cen-tric/heliocentric
  []
 
 [2
 
 
 ]
-Overfull \hbox (4.23665pt too wide) in paragraph at lines 115--116
-[]\OT1/cmr/m/n/10 The op-ti-cal ober-va-to-ries of the An-des moun-
- []
+<figures/franklin.png, id=80, 878.28125pt x 1043.9pt>
+File: figures/franklin.png Graphic file (type png)
+<use figures/franklin.png>
+Package pdftex.def Info: figures/franklin.png  used on input line 111.
+(pdftex.def)             Requested size: 105.78574pt x 125.72452pt.
+<figures/alzate_ramirez.jpg, id=81, 160.6pt x 238.8925pt>
+File: figures/alzate_ramirez.jpg Graphic file (type jpg)
+<use figures/alzate_ramirez.jpg>
+Package pdftex.def Info: figures/alzate_ramirez.jpg  used on input line 112.
+(pdftex.def)             Requested size: 79.33728pt x 118.01703pt.
+<figures/1769_transit.png, id=82, 405.01312pt x 339.51843pt>
+File: figures/1769_transit.png Graphic file (type png)
+<use figures/1769_transit.png>
+Package pdftex.def Info: figures/1769_transit.png  used on input line 113.
+(pdftex.def)             Requested size: 211.57147pt x 177.35876pt.
+<figures/Abbot_dAuteroche.png, id=84, 441.65pt x 601.24625pt>
+File: figures/Abbot_dAuteroche.png Graphic file (type png)
+<use figures/Abbot_dAuteroche.png>
+Package pdftex.def Info: figures/Abbot_dAuteroche.png  used on input line 114.
+(pdftex.def)             Requested size: 92.56554pt x 126.00854pt.
+<figures/joaquin_v_d_Leon.png, id=85, 442.65375pt x 565.11125pt>
+File: figures/joaquin_v_d_Leon.png Graphic file (type png)
+<use figures/joaquin_v_d_Leon.png>
+Package pdftex.def Info: figures/joaquin_v_d_Leon.png  used on input line 115.
+(pdftex.def)             Requested size: 92.56554pt x 118.1681pt.
 
-
-Overfull \hbox (2.36427pt too wide) in paragraph at lines 119--120
-[]\OT1/cmr/bx/n/10 Essay on Dis-cov-ery, Ex-pe-di-tion, or Re-searcher
- []
-
-
-Overfull \hbox (11.09232pt too wide) in paragraph at lines 120--121
+Overfull \hbox (2.69875pt too wide) in paragraph at lines 128--129
 []\OT1/cmr/m/n/10 Format: es-says will be ap-prox-i-mately 5,000 words,
  []
 
 
-Overfull \hbox (10.4257pt too wide) in paragraph at lines 122--123
+Overfull \hbox (4.03207pt too wide) in paragraph at lines 128--129
+\OT1/cmr/m/n/10 and can be en-hanced with fig-ures, di-a-grams, maps,
+ []
+
+
+Overfull \hbox (2.03214pt too wide) in paragraph at lines 130--131
 []\OT1/cmr/m/n/10 Editing/drafts: please use the book-ing link (above
  []
 
 
-Overfull \hbox (0.23114pt too wide) in paragraph at lines 122--123
-\OT1/cmr/m/n/10 in con-tact info) to sched-ule of-fice hours ap-point-
+Overfull \hbox (8.95421pt too wide) in paragraph at lines 138--139
+[]\OT1/cmr/m/n/10 Achieving eco-nomic, ed-u-ca-tional, and med-
+ []
+
+[3 <./figures/franklin.png> <./figures/alzate_ramirez.jpg> <./figures/1769_tran
+sit.png> <./figures/Abbot_dAuteroche.png> <./figures/joaquin_v_d_Leon.png>]
+Overfull \hbox (1.33763pt too wide) in paragraph at lines 147--148
+[]\OT1/cmr/m/n/10 Review of Pre-Columbian and Me-dieval Eu-ro-pean
  []
 
 
-Overfull \hbox (0.62541pt too wide) in paragraph at lines 129--130
-[]\OT1/cmr/m/n/10 When the Cre-ole elites de-cided to break
+Overfull \hbox (4.39859pt too wide) in paragraph at lines 156--157
+[]\OT1/cmr/m/n/10 Science gone wrong, con-cepts of sin, fraud,
  []
 
-[3] (./syllabus.aux)
+
+Overfull \hbox (5.17093pt too wide) in paragraph at lines 163--164
+[]\OT1/cmr/m/n/10 Form groups of 2, or re-main solo (stu-dents' choice). 
+ []
+
+
+Overfull \hbox (25.73236pt too wide) in paragraph at lines 170--171
+[]\OT1/cmr/m/n/10 For \OT1/cmr/m/it/10 meet-ing but not ex-ceed-ing \OT1/cmr/m/
+n/10 the time-requirement
+ []
+
+<figures/roman_lopez_salvatierra.png, id=125, 885.3075pt x 556.0775pt>
+File: figures/roman_lopez_salvatierra.png Graphic file (type png)
+<use figures/roman_lopez_salvatierra.png>
+Package pdftex.def Info: figures/roman_lopez_salvatierra.png  used on input lin
+e 175.
+(pdftex.def)             Requested size: 238.01991pt x 149.49806pt.
+<figures/venus.png, id=126, 1058.95625pt x 476.78125pt>
+File: figures/venus.png Graphic file (type png)
+<use figures/venus.png>
+Package pdftex.def Info: figures/venus.png  used on input line 176.
+(pdftex.def)             Requested size: 238.01991pt x 107.16202pt.
+[4 <./figures/roman_lopez_salvatierra.png> <./figures/venus.png>]
+(./syllabus.aux)
 Package rerunfilecheck Info: File `syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9140 strings out of 476097
- 143815 string characters out of 5791138
- 1877851 words of memory out of 5000000
- 29342 multiletter control sequences out of 15000+600000
+ 9229 strings out of 476097
+ 145743 string characters out of 5791138
+ 1876851 words of memory out of 5000000
+ 29393 multiletter control sequences out of 15000+600000
  517445 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,76p,1509b,676s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,76p,1509b,776s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
@@ -453,10 +498,10 @@ ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/loca
 l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
 texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on syllabus.pdf (3 pages, 179467 bytes).
+Output written on syllabus.pdf (4 pages, 2884149 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 89 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
