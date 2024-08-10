@@ -1,110 +1,44 @@
-\title{INTD290: Number Systems in pre-Columbian Context}
+\title{INTD262: Number Systems in pre-Columbian Mayan Culture}
 \author{Dr. Jordan Hanson - Whittier College Dept. of Physics and Astronomy}
 \date{\today}
-\documentclass[10pt]{article}
-\usepackage[a4paper, total={18cm, 27cm}]{geometry}
-\usepackage{outlines}
+\documentclass[12pt]{article}
+\usepackage[margin=1.5cm]{geometry}
 \usepackage{hyperref}
 \usepackage{graphicx}
+\usepackage{amsmath}
 \begin{document}
 \maketitle
 
-\section{How to Submit this Assignment}
+\section{Introduction}
 
-Once you answer the questions, take a picture of your work and convert it to a PDF.  Submit the PDF to the assignment link on Moodle.
+In this activity, we will learn that written numbers are actually symbols within a larger system, and that other systems exist.  We will learn that the symbols correspond to abstract ideas that appear to be universal to human beings.  We will introduce the concepts of \textit{digits} and \textit{weights}, and four systems that use them to form numbers.  First, we will understand the binary system, arguably the simplest number system.  Second, we will understand the base-10 or Hindu-Arabic system.  Third, we will understand the base-16 or hexadecimal system.  Fourth, we will explore the base-20 or vigesimal system.  Finally, we will apply our knowledge of the vigesimal system to perform calculations as the Mayans did.
 
-\section{Introduction to Digits and Bases}
+\section{Digits and Bases}
 
-\textbf{[Asynchronous Lesson 0.1: corresponding video]} In pre-Columbian scientific communities, we do not encounter the same systems of numbers as those used within the European scientific revolution.  Based on the video 0.1, answer the following questions.
+Consider the number 255.  You may have learned how to break this type of number into \textit{digits} and \textit{weights}.  There are three digits: one ``2,'' and two instances of ``5.''  What do the digits mean, given that they are not in the same location?  We know the answer from basic math courses:
+\begin{equation}
+255 = 2\times 100 + 5\times 10 + 5\times 1 = 2\times 10^2 + 5\times 10^1 + 5\times 10^0
+\end{equation}
+The left/right position of the digits determines how much \textit{weight} we give each digit.  For example, the 2 has a \textit{weight} of 100, or $10^2$.  The first 5 has a \textit{weight} of 10, or $10^1$.  The final five has a \textit{weight} of 1, or $10^0$.  The fact that the weights use powers of 10 reveals that we are using a \textit{base-10} number system.  Switching the base of our number system requires us to think on a level that resembles switching our \textit{language} that we use to speak.  Though we may grasp an idea in our mind, communicating it becomes challenging because we've changed the underlying set of symbols used to communicate.  Consider the following examples, as we switch to base-2 (\textit{binary}).
 
-\begin{enumerate}
-\item Imagine seeing four people standing under a tree.  which of the following symbols describes the number of people under the tree?
+\section{Base-2 or Binary}
+
 \begin{itemize}
-\item A: \textit{4}
-\item B: $....$
-\item C: \textit{- - - -}
-\item D: \textit{all of the above}
+\item Consider the numbers 255 and 256.  Can you identify the power of 2 that corresponds to 256?  Powers of two grow like this: 1, 2, 4, 8, 16, 32, ... ($2^0$, $2^1$, $2^2$, $2^3$, $2^4$, $2^5$). \\ \vspace{1cm}
+\item Try obtaining the power of 2: (a) 512 (b) 1024 (c) 2048. \\ \vspace{1cm} 
+\item Binary works with just two digits: 0 and 1.  The number of digits is the same as the base.  For the number nine, all we have to do is put a 1 in the 8's place, and add 1: $1001 = 1000 + 1$.  Convert the following \textit{decimal} numbers into binary: (a) 5 (b) 17 (c) 33. \\ \vspace{1.5cm}
+\item Now write 256 in binary.  Recall that $2^8 = 256$. \\ \vspace{1cm}
+\item How do you suppose we write 255 in binary?  Recall that $2^8 = 256$. Consider what you do when you write 19, as opposed to 20.  We reduce the most significant digit by one count, and change the next most significant digit accordingly. \\ \vspace{1.5cm}
 \end{itemize}
-\item How many digits are there in the decimal system?
-\begin{itemize}
-\item A: 8
-\item B: 10
-\item C: 16
-\item D: 20
-\end{itemize}
-\item How many digits would there be in a base-8 system?
-\begin{itemize}
-\item A: 8
-\item B: 10
-\item C: 16
-\item D: 20
-\end{itemize}
-\item Write the number 255 as the sum of digits times powers of 10, as in video 0.1. \\ \vspace{2cm}
-\end{enumerate}
 
-\section{Base-2, or Binary}
+\section{Base-10 or Hindu-Arabic}
 
-\textbf{[Asynchronous Lesson 0.2: corresponding video]}  We move forward with base-2 or binary number systems.  Watch the video 0.2 and answer the following questions.
-
-\begin{enumerate}
-\item Convert the following binary numbers to decimal numbers:
-\begin{itemize}
-\item 1000
-\item 1001
-\item 1101
-\item 1111
-\end{itemize}
-\item Convert the following decimal numbers to binary numbers:
-\begin{itemize}
-\item 32
-\item 42
-\item 11
-\item 17
-\end{itemize}
-\end{enumerate}
-
-\section{Base-16, or Hexadecimals}
-
-\textbf{[Asynchronous Lesson 0.3: corresponding video]}  We move forward with base-16 or hexadecimal number systems.  Watch the video 0.3 and answer the following questions.
-
-\begin{enumerate}
-\item How do you write 12 in hexadecimal?
-\begin{itemize}
-\item A: 12
-\item B: C
-\item C: D
-\item D: 1A
-\end{itemize}
-\item Let's convert the number 255 to hexadecimal, a base-16 number system.  (a) First, divide 255 by 16 and start a column of the remainders.  (b) Divide the result of (a) by 16 again, and record the remainder.  (c) Repeat this process until the result is less than 16.  This is your final remainder, because you can't divide by 16 again.  (d) Line up the remainders to get the hexadecimal expression for 255. \\ \vspace{3cm}
-\end{enumerate}
-
-\section{Base-20 Systems}
-
-\textbf{[Asynchronous Lesson 0.3: corresponding video]}  Finally, we've built up to understanding the basic Mayan numerical patterns.  Answer the following questions.
-
-\begin{enumerate}
-\item Suppose we introduce a base-20 number system.  We need 20 digits, including 0-19.  Use the Arabic numerals 0-9, plus letters from the alphabet A-K as digits representing the numbers 10-19.  (a) What are the first three powers of 20: $20^0$, $20^1$, $20^2$? (b) So how would you represent the decimal number 400 in your base-20 system? (c) How would you represent 401? \\ \vspace{2cm}
-\item Convert the following numbers to your base-20 system:
-\begin{itemize}
-\item 25
-\item 45
-\item 425
-\item 625
-\end{itemize}
-\item You've converted the following numbers to base-20:
-\begin{itemize}
-\item 25
-\item 45
-\item 425
-\item 625
-\end{itemize}
-Now write these numbers as the Mayans wrote them, using the digits in Fig. \ref{fig:maya}.  Subtract 20 from each of them, and write the results using Mayan digits.  (You can put your work on a separate page).
-\end{enumerate}
+\section{Base-20 or Vigesimal}
 
 \begin{figure}[hb]
 \centering
 \includegraphics[width=5cm]{figures/maya_digits.png}
-\caption{\label{fig:maya} The 20 digits of the Mayan system.  The digit for 0 resembles an empty shell.  The dots are worth 1 and the bars are worth 5.}
+\caption{\label{fig:maya} The 20 digits of the Mayan system.  The digit for 0 resembles an empty shell.  The dots are worth 1 and the bars are worth 5.  In a number larger than 19, the symbols stack vertically.}
 \end{figure}
 
 \end{document}
