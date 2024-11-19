@@ -1,0 +1,61 @@
+\title{Practice with Triangulation}
+\author{Dr. Jordan Hanson - Whittier College Dept. of Physics and Astronomy}
+\date{\today}
+\documentclass[12pt]{article}
+\usepackage[margin=1.25cm]{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\begin{document}
+\twocolumn
+\maketitle
+\small
+
+\section{Introduction}
+
+\textit{Triangulation} is a way to measure the distance to an object using a compass and trigonometry.  Suppose we are an unknown distance \textit{d} away from a mountain.  We know our present coordinates, and we want to get the coordinates of the mountain \textit{without traveling to it}.
+
+Consider Fig. \ref{fig:latlon}.  If the distance \textit{d} forms a line between ourselves and the object, we can walk a perpendicular baseline from point A to point B.  The angles $\alpha$ and $\beta$ are between our baseline and the lines between points A and B and the object.  Suppose we walk in such a way that these angles are equal.  This amounts to walking such that the direction to the object changes equally relative to a fixed direction.
+
+Let $\theta$ be the other angles in the triangles in Fig. \ref{fig:latlon}, across from $\alpha$ and $\beta$, and remember that we are assumming that $\alpha = \beta$.  Let \textit{b} represent the baseline between A and B.  Using the ``tangent'' function from trigonometry, we see that
+
+\begin{equation}
+\tan\theta = \frac{1}{2}\left(\frac{b}{d}\right)
+\end{equation}
+
+It turns out that, for $\theta \ll 1$, $\tan\theta \approx \theta$.  Replacing $\tan\theta$ with $\theta$ gives
+
+\begin{equation}
+\theta = \frac{1}{2}\left(\frac{b}{d}\right)
+\end{equation}
+
+Finally, note that the peak angle for the largest triangle in Fig. \ref{fig:latlon} is $2\theta$.  Let's call this angle $2\theta = \phi$.  This makes our formula
+
+\begin{equation}
+\frac{1}{2}\phi = \frac{1}{2}\left(\frac{b}{d}\right)
+\end{equation}
+
+The factors of $(1/2)$ cancel, and we can solve for $d$:
+
+\begin{equation}
+\boxed{
+d = \frac{b}{\phi}}
+\end{equation}
+ 
+\begin{figure}[hb]
+\centering
+\includegraphics[width=0.3\textwidth]{triangulation-boat.png}
+\caption{\label{fig:latlon} A position on a sphere can be described by two locations or angles.}
+\end{figure}
+
+\section{Examples}
+
+Complete the following exercises:
+
+\begin{enumerate}
+\item If we walk a baseline of 500 m, and observe $\phi = 0.05$ radians, (a) what is the distance to the object? Note this comes out in meters.  (b) Convert to kilometers. \\ \vspace{1.5cm}
+\item If we know that our object is 30 km in the distance, (a) how long will our baseline have to be to observe an angle of 0.03 radians? (b) Convert this to degrees. \\ \vspace{1.5cm}
+\item Draw a picture of the face of a compass.  How would your compass look at points A and B, if the object was due North, and $\phi = 5$ degrees? (Modify your picture).
+\end{enumerate}
+
+\end{document}
